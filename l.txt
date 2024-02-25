@@ -1,0 +1,3 @@
+making of l.txt in dev branch 
+some logic in the code has been added, please look
+into it , thanks 
